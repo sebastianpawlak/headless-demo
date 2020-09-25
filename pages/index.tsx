@@ -27,7 +27,7 @@ const Home = () => {
         <title>Headless WPE Blog</title>
       </Head>
       <header>
-        <h1>Headless WPE 23</h1>
+        <h1>Headless WPE H</h1>
       </header>
       {posts &&
         posts.map(post => (
