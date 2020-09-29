@@ -21,6 +21,9 @@ const Home = () => {
 
   const posts = data?.posts?.nodes;
 
+  console.log("some log")
+  console.error("some error")
+
   return (
     <Layout>
       <Head>
