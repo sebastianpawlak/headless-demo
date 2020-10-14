@@ -27,7 +27,7 @@ const Home = () => {
   return (
     <Layout>
       <Head>
-        <title>Headless WPE Blog 1</title>
+        <title>Headless WPE Blog 12</title>
       </Head>
       <header>
         <h1>Headless WPE H</h1>
